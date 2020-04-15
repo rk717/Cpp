@@ -29,7 +29,7 @@ int main()
     }
     else
     {
-        cout << res;
+        cout << res+1;
     }
 
 }
