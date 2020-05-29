@@ -1,0 +1,7 @@
+1.We have an integer sequence. Write an algorithm that determines whether the sequence is NOT symmetric (palindrome). (Input, output, postcondition, algorithm, PoA’s name)
+
+2.We have N books in a library. We store the title, the name of the writer, and the year of publishing. List the name of the writer of all the youngest books. (Input, output, postcondition, algorithm, PoA’s name)
+
+3.We stored the numbers of new patients on N days in a hospital. Give the shortest period where the numbers were monotony increasing.  (Input, output, postcondition, algorithm, PoA’s name)
+
+4.In a library, we have N books. We know the title, the writer, and the year of publishing. List all the writers (only once ) who has at least one book in the library.
